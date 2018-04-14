@@ -108,3 +108,27 @@ nav {
 		font-size: 19px;
 	}
 }
+
+	/* About Me Site
+							*/
+.about {
+	float: left;
+	margin: 22px;
+}
+
+	/* Blog Site
+							*/
+.cowboy {
+	font-weight: bold;
+	color: #0199A4;
+}
+
+.post {
+	text-align: center;
+}
+
+	/* Contact Site
+							*/
+.containerform {
+	margin: 12px;
+}
